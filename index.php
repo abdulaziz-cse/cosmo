@@ -47,7 +47,7 @@
         <div class="container">
           <div class="nav-content">
             <div class="nav-logo">
-              <a href="index.html">
+              <a href="index.php">
                 <img src="assets/img/App logo@3x.png" alt="Logo" />
               </a>
             </div>
@@ -58,7 +58,7 @@
             </div>
             <div id="navLinks" class="nav-links">
               <ul class="list-unstyled">
-                <li class="nav-link"><a href="home.html">عن الشروط والاحكام</a></li>
+                <li class="nav-link"><a href="home.php">عن الشروط والاحكام</a></li>
                 <li class="nav-link nav-scroll" data-scroll="#contactUs"><a href="javascript:void(0)">تواصل معنا</a></li>
               </ul>
             </div>
